@@ -1,1 +1,3 @@
-Hello! Multiplayer is now working, I have also added a mirror, and a I am working on some cosmetics. Enjoy the new update!
+Development Build 0.1.0
+
+Hello! This is the first version of the map. I have multiplayer and voice added. (Not the offical characters/movement aswell.)
