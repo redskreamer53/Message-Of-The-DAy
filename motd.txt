@@ -2,4 +2,4 @@ Development Build 0.2
 
 With the first test of the map going well, here is to adding voice chat. Hopefully it Works!
 
--Improved the map
+-Hello Wyatt!
