@@ -1,3 +1,5 @@
-Development Build 0.1.0
+Development Build 0.2
 
-Hello! This is the first version of the map. I have multiplayer and voice added. (Not the offical characters/movement aswell.)
+With the first test of the map going well, here is to adding voice chat. Hopefully it Works!
+
+-Improved the map
