@@ -1,5 +1,6 @@
-Development Build 0.3
+Development Build 0.3.2
 
 Hey very short update, voice is louder added slinkys map and new hat!
 
 -Slinkys Map Added!
+-Collisions added
